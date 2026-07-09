@@ -45,7 +45,7 @@ export default function Home() {
           <TileWeather
             time="3:43PM"
             conditions="Light Rain"
-            temp="65°F"
+            temp="66°F"
             low="42°"
             high="67°"
           />
@@ -153,7 +153,7 @@ export default function Home() {
               className="home-desktop__weather"
               time="3:43PM"
               conditions="Light Rain"
-              temp="65°F"
+              temp="66°F"
               low="42°"
               high="67°"
             />
