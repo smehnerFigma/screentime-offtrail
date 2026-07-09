@@ -52,6 +52,11 @@
 
 /* --- Small --- */
 
+.card-event--small {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .card-event--small .card-event__layout {
   gap: var(--otds-size-gap-medium);
   align-items: flex-start;
