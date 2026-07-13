@@ -74,6 +74,11 @@
   box-sizing: border-box;
 }
 
+.map-screen__events > .card-event--small {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
 @media (min-width: 1024px) {
   .map-screen .app-shell__nav {
     display: none;

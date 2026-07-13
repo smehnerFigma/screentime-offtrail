@@ -99,7 +99,7 @@ export const events = [
   },
   {
     id: 'weekend-surf',
-    title: 'Weekend Surf Session',
+    title: 'Weekend  Session',
     location: 'Ventura, CA',
     address: 'Surfers Point, Ventura, CA',
     city: 'Ventura, CA',
