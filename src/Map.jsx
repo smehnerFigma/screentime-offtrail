@@ -53,6 +53,7 @@ export default function Map() {
           {events.map((event) => (
             <CardEvent
               key={event.id}
+              className="map-screen__event-card"
               size="small"
               src={event.src}
               title={event.title}
