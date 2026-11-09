@@ -46,7 +46,12 @@ export default function Map() {
         </div>
         <div className="map-screen__tabs">
           {FILTERS.map((label, i) => (
-            <Chip key={label} label={label} active={i === 0} />
+            <Chip
+              key={label}
+              label={label}
+              active={i === 0}
+              className="map-screen__filter-chip"
+            />
           ))}
         </div>
         <div className="map-screen__events">

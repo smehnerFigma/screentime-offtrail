@@ -59,6 +59,11 @@
   display: none;
 }
 
+.map-screen__filter-chip {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
 /* --- Bottom sheet content --- */
 
 .map-screen__sheet {
